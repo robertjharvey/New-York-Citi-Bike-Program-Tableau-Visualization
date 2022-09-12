@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/robert.harvey/viz/CitiBikeProject_16524849556980/Story2
+
 # New York Citi Bike Program Tableau Visualization
 
 ### Goals: create engaging, easy-to-navigate Tableau visualizations diving into different aspects of the dataset. Once the data was cleaned and ready to be visualized, I created multiple stories and pages to allow the user to navigate different parts of the City and to see how rental bike metrics changed over a period of years.
